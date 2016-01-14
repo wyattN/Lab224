@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Salmon_Dupree
-=======
-Salmon, LORD OF THE FISH
->>>>>>> f5758976d709a8ee0f2865d034242da97799a354
+Salmon, LORD OF THE FISH (Clayton)
